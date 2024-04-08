@@ -1,6 +1,6 @@
 {
-  "name": "clculator",
-  "version": "1.0.2",
+  "name": "calculator-by-ur",
+  "version": "1.0.3",
   "description": "\"simple clculator with typescript,node.js and inquirer\"",
   "main": "index.js",
   "type": "module",
